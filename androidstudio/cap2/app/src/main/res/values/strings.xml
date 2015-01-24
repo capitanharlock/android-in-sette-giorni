@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android in sette giorni - Cap 2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_bar_name">Capitolo 2</string>
+    <string name="action_bar_subtitle">Lista dei diversi elementi grafici</string>
+    <string name="button_example">Questo è un esempio di Button</string>
+    <string name="image_button_example">Questo è un esempio di ImageButton</string>
+    <string name="last">+</string>
+    <string name="first">-</string>
+    <string name="text1">TextView 1</string>
+    <string name="text2">TextView 2</string>
+
+</resources>

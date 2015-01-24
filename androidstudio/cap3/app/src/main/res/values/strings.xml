@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Capitolo 3</string>
+    <string name="app_name">Android in sette giorni - Capitolo 3</string>
+    <string name="isconnected">Dispositivo connesso in WIFI</string>
+    <string name="noconnected">Dispositivo non connesso in WIFI</string>
+    <string name="activity_result_ok">Activity result ok</string>
+
+</resources>
